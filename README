@@ -1,0 +1,8 @@
+
+Compilar con:
+	$ gcc -o v_inicial v_inicial.c -lm
+
+	$ gcc -o planetas planetas.c -lm
+
+El programa v_inicial resuelve el problema del valor inicial utilizando el metodo de Euler o RK
+El programa planetas utiliza los metodos de Euler o RK para calcular la trayectoria final de los planetas
